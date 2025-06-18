@@ -17,7 +17,7 @@ export const Products = () => {
         "Compact size for easy urban navigation",
         "Reliable and energy-efficient performance"
       ],
-      image: "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?ixlib=rb-4.0.3&auto=format&fit=crop&w=2069&q=80",
+      image: "/lovable-uploads/fad8b098-0217-4f13-8e3a-99e0af830eb5.png",
       color: "green"
     },
     {
@@ -32,7 +32,7 @@ export const Products = () => {
         "Modern and sleek interior with easy entry and exit",
         "Advanced safety systems for peace of mind"
       ],
-      image: "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?ixlib=rb-4.0.3&auto=format&fit=crop&w=2069&q=80",
+      image: "/lovable-uploads/96f3257c-0cc3-4605-a690-a6f38e77588b.png",
       color: "blue"
     },
     {
@@ -47,7 +47,7 @@ export const Products = () => {
         "Advanced safety features",
         "Spacious interior with easy access"
       ],
-      image: "https://images.unsplash.com/photo-1570125909517-53cb21c89ff2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2069&q=80",
+      image: "/lovable-uploads/7db9d6e0-b08c-4ff0-93c4-983020eaafb4.png",
       color: "orange"
     }
   ];

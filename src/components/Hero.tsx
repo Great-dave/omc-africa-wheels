@@ -53,8 +53,8 @@ export const Hero = () => {
           <div className="relative">
             <div className="aspect-video bg-gradient-to-br from-green-200 to-blue-200 rounded-2xl flex items-center justify-center">
               <img 
-                src="https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?ixlib=rb-4.0.3&auto=format&fit=crop&w=2069&q=80" 
-                alt="OMC Bus" 
+                src="/lovable-uploads/8e92e7d7-04b5-48c3-9c80-e0fb89518c36.png" 
+                alt="OMC Bus Manufacturing Facility" 
                 className="w-full h-full object-cover rounded-2xl"
               />
             </div>

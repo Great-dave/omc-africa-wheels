@@ -95,8 +95,8 @@ export const About = () => {
             </div>
             <div className="aspect-video bg-gradient-to-br from-green-200 to-blue-200 rounded-xl">
               <img 
-                src="https://images.unsplash.com/photo-1570125909517-53cb21c89ff2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2069&q=80" 
-                alt="OMC Manufacturing" 
+                src="/lovable-uploads/e7df30b2-ef32-4639-960a-c9f7ad2fdfe8.png" 
+                alt="OMC Manufacturing Assembly Line" 
                 className="w-full h-full object-cover rounded-xl"
               />
             </div>

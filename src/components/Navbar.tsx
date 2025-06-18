@@ -10,7 +10,7 @@ export const Navbar = () => {
     { name: "Home", href: "#home" },
     { name: "About", href: "#about" },
     { name: "Products", href: "#products" },
-    { name: "Mission", href: "#mission" },
+    { name: "Media", href: "#mission" },
     { name: "Contact", href: "#contact" },
   ];
 
